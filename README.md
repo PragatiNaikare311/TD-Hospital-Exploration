@@ -10,6 +10,6 @@ TD Hospital has sought assistance in rectifying issues with their patient data, 
 |----------|----------|----------|
 | Random Forest | 0.87 | max_depth: None, n_estimaters: 100 |
 | Ada Boost | 0.84 | learning_rate: 1.0, n_estimaters: 50 |
-| Gradient Boosting | 0.87 | learning_rate: 0.1,, n_estimators: 100 |
-| Bagging | R0.87 | max_samples: 0.6,n_estimators: 200 |
-| CatBoostClassifier | 0.94 | Iterations=100,verbose=0 |
+| Gradient Boosting | 0.87 | learning_rate: 0.1, n_estimators: 100 |
+| Bagging | R0.87 | max_samples: 0.6, n_estimators: 200 |
+| CatBoostClassifier | 0.94 | Iterations=100, verbose=0 |
